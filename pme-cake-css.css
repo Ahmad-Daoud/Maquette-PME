@@ -1,0 +1,116 @@
+
+.divtop{
+    border-bottom: solid 1px rgb(229, 229, 229) ;
+    padding-bottom: 15px;
+}
+.pinktopofpage{
+    height: 2%;
+    font-size: 13px;
+    border-top: solid 3px #DF95EF;
+}
+.pinktext{
+    background-color: #DF95EF;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 75%;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    color: white;
+}
+.centre-texte-moncompte{
+    display: flex;
+    text-align: center;
+}
+.bigicon{
+    font-size:25px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+}
+
+.flexboxdiv{
+    display: flex;
+}
+.toplefttextsize{
+    font-size: 10px;
+    text-align: center;
+}
+.firstrow{
+    padding-top: 10px;
+}
+.link-text-color{
+    color: black !important;
+}
+a{
+    text-decoration: none !important;
+}
+.bluetextthick{
+    font-weight: 1000 !important;
+    color: #0872BF !important;
+    text-align: center;
+    font-family: montserrat;
+    font-size: 14px;
+    font-weight: 400;
+}
+.bluetextthick:hover {
+    color: rgb(230, 133, 245) !important;
+    transition-property: all;
+    transition-duration: 0.2s;
+}
+.bluebg {
+    background-color: #78D6FF;
+    padding-bottom: 10px;
+    color: white;
+    font-family: montserrat;
+    font-size: 12px;ss
+}
+.textcenter{
+    text-align: center;
+}
+.textend{
+    text-align: end;
+}
+.bluethingpaddging {
+    padding: 0px !important;
+    margin-left: 0px !important;
+    width: 90000px !important;
+    background-color: #78D6FF !important;
+    border-right: solid #78D6FF 200px !important;
+}
+.textpaddingblue{
+    padding-top: 10px;
+    font-weight: bolder;
+}
+.blackicon{
+    color: black;
+    padding-right: 8px;
+}
+.nolinkdecorations {
+    text-decoration: none !important;
+    color: white !important;
+}
+.nolinkdecorations:hover {
+    text-decoration: underline white !important; 
+}
+.imgcntrd{
+    margin-top:60px ;
+    margin-left: 47%;
+}
+.cakestop{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    font-family: montserrat;
+    font-weight: 900;
+    font-size: 30px;
+    color: #0872BF;
+    text-shadow: -1px 0 #0872BF, 0 1px ;
+    margin-bottom: 20px;
+}
+.imagelarge{
+    padding-right: 20px;
+}
+.imagessmall{
+    left: 10%;
+}
