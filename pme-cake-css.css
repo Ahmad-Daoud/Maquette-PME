@@ -46,13 +46,12 @@ a{
     text-decoration: none !important;
 }
 .bluetextthick{
-    font-weight: 1000 !important;
+    font-weight: 900 !important;
     color: #0872BF !important;
     text-align: center;
     font-family: montserrat;
     font-size: 14px;
-    font-weight: 400;
-}
+    font-weight: 400;}
 .bluetextthick:hover {
     color: rgb(230, 133, 245) !important;
     transition-property: all;
@@ -63,7 +62,7 @@ a{
     padding-bottom: 10px;
     color: white;
     font-family: montserrat;
-    font-size: 12px;ss
+    font-size: 12px;
 }
 .textcenter{
     text-align: center;
@@ -80,7 +79,8 @@ a{
 }
 .textpaddingblue{
     padding-top: 10px;
-    font-weight: bolder;
+    font-family: montserrat;
+    font-weight: 700;
 }
 .blackicon{
     color: black;
@@ -146,7 +146,7 @@ a{
     font-size: 35px;
     color: #0872BF;
     font-family: montserrat;
-    font-weight: 900;
+    font-weight: 700;
 }
 .hoversaturate{
     transition-duration: 500ms;
@@ -155,4 +155,99 @@ a{
     filter: opacity(70%);
     transition-delay: 5ms;
     transition-duration: 500ms;
+}
+.footer{
+    background-color: #E2F8FF;
+}
+.pinkfootercolor{
+    color: #DF95EF;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: montserrat;
+}
+.email{
+    width: 440px !important;
+    padding-left: 20px;
+    margin-top: 20px !important;
+}
+.youremailbox{
+    border: none;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 6px;
+    border-top-style: hidden;
+    border-top-style: hidden;
+    border-top-style: hidden;
+    border-bottom-style: hidden;
+    padding-bottom: 4px;
+}
+.youremailbox:focus {
+    outline: none;
+}
+.buttonyouremail{
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    border: none;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    background-color: #DF95EF;
+    font-family: montserrat;
+    font-weight: 700;
+    color: white;
+}
+.margincols{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.paddingfooter{
+    padding-bottom: 20px;
+    padding-top: 15px;
+}
+.paddingless{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.bottomlinetext{
+    color: #0872BF;
+    font-family: montserrat;
+    font-weight: 900;
+    border-bottom: solid 2px #D8D8D8;
+}
+.bottomlinelittletext{
+    color: black !important;
+    font-size: 14px;
+    text-decoration: none !important;
+    padding-bottom: 1px ;
+}
+.bottomlinelittletext:hover{
+    border-bottom: solid 1px black;
+}
+.thepaddinglittle{
+    padding-top: 6px;
+}
+.underfooter{
+    padding-top: 20px !important;
+}
+.pinkfinal {
+    background-color: #DF95EF;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 35px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    width: 100%;
+    margin-top: 20px;
+}
+.tiktokicons{
+    margin-top: 20px !important;
 }
